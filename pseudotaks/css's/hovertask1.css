@@ -1,0 +1,8 @@
+div{
+    width: 300px;
+    height: 200px;
+    background-color: violet;
+}
+div:hover{
+    background-color: rgb(220, 178, 220)
+}

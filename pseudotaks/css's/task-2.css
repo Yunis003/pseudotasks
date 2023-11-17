@@ -1,0 +1,13 @@
+h1{
+    margin: 20px;
+}
+div{
+    width: 250px;
+    height: 400px;
+    
+   margin: 20px;
+}
+div input:focus{
+    background-color: grey;
+
+}

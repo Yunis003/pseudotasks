@@ -1,0 +1,10 @@
+div{
+    width: 250px;
+    margin: 100px;
+}
+.hovered:hover{
+    background-color: aqua;
+}
+.focused:focus{
+    background-color:yellow
+}

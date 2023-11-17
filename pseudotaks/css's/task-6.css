@@ -1,0 +1,13 @@
+span{
+    margin-top: 30px;
+}
+div{
+    width: 200px;
+}
+ul li:nth-child(even){
+    background-color: red;
+
+}
+ul li:nth-child(odd){
+    background-color: darkgreen;
+}

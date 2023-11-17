@@ -1,0 +1,19 @@
+body{
+    background-color: violet;
+}
+button{
+    margin: 30px;
+    background-color: aliceblue;
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    font-size: 30px;
+}
+
+button a{
+    text-decoration: none;
+    color: black;
+}
+button:hover{
+     background-color: yellowgreen;
+}

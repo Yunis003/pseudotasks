@@ -1,0 +1,14 @@
+button{
+    margin: 100px;
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color: rgb(68, 68, 190);
+}
